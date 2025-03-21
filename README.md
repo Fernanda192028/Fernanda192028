@@ -7,6 +7,10 @@
 <p> 🏡 Moro em São José dos Campos-SP</p>
 
 
+[![](https://img.shields.io/badge/@Fernanda192028-100000?style=flat&logo=github&logoColor=white)](https://github.com/Fernanda192028)
+[![](https://img.shields.io/badge/@nandafcbp_1823-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/nandafcbp_1823/)
+[![](https://img.shields.io/badge/@fernandafcbpereira19071-ff0000?style=flat&logo=gmail&logoColor=white)](https://www.gmail.com/fernandafcbpereira19071@gmail.com/)
+
 <h2>🖥Linguagens e tecnologias </h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
@@ -31,7 +35,7 @@
 <img
     align="left" 
     alt="GitHub Stats" 
-    height="200"  
+    height="185" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernanda192028&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" 
 />
 </p>
