@@ -7,19 +7,19 @@
 <p> 🏡 Moro em São José dos Campos-SP</p>
 
 
-[![](https://img.shields.io/badge/@Fernanda192028-100000?style=flat&logo=github&logoColor=white)](https://github.com/Fernanda192028)
-[![](https://img.shields.io/badge/@nandafcbp_1823-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/nandafcbp_1823/)
-[![](https://img.shields.io/badge/@fernandafcbpereira19071-ff0000?style=flat&logo=gmail&logoColor=white)](https://www.gmail.com/fernandafcbpereira19071@gmail.com/)
+<a href="https://instagram.com/nandafcbp_1823" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:fernandafcbpereira19071@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
 
 <h2>🖥Linguagens e tecnologias </h2>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Git" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="HTML" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Python" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-<br>
-<br>
+
+##
 
 ### 📊 Estatísticas
 <p>
